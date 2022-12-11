@@ -13,7 +13,7 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = false // auto read message
+global.autoread = true // auto read message
 global.autobio = false 
 global.userRegister = false 
 global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
@@ -38,7 +38,7 @@ global.premium = ['6285713888398'] //premium user
 global.owner = ["6285713888398","6285713888398"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6285713888398" // nomor wa kalian
 global.ownernomerr = "+6285713888398" //nmr wa kalian
-global.thumbnail = "./image/Pi7_Image_20221211_171434-mnt.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.thumbnail = "./image/thumb.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/20221211_172637.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
